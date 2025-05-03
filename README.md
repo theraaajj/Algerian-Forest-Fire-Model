@@ -58,6 +58,7 @@ The dataset used in this project is the Algerian Forest Fires Dataset, which con
 🧪 Model Evaluation
 
 Models are evaluated using accuracy, precision, recall, and F1-score. The notebook contains details of training/validation steps and comparison of different ML algorithms.
+
 🙌 Acknowledgments
 
     UCI Machine Learning Repository for the Algerian Forest Fire Dataset
